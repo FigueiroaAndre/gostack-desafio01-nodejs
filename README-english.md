@@ -6,13 +6,13 @@ The goal here was learn about the basic concepts of NodeJS.
 Instructions to run the application:
 
 ```SHELL
-yarn # ou npm install
-yarn dev # ou npm run dev
+yarn # or npm install
+yarn dev # or npm run dev
 ```
 
 ## Testing
 Instructions to run the automated tests:
 
 ```SHELL
-yarn test # ou npm run test
+yarn test # or npm run test
 ```
