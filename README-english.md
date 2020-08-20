@@ -11,7 +11,7 @@ yarn dev # ou npm run dev
 ```
 
 ## Testing
-Unstructions to run the automated tests:
+Instructions to run the automated tests:
 
 ```SHELL
 yarn test # ou npm run test
